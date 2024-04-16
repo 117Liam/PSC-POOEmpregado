@@ -36,3 +36,5 @@ public class Main {
         input.close();
     }
 }
+
+//Usei a estrutura do-while para a empresa conseguir registrar mais empregados, não sei se era bem isso que o enunciado queria, mas foi isso que fiz
